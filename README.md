@@ -20,6 +20,9 @@ origin  https://github.com/Wadym/voiceConvergence.git (fetch)
 origin  https://github.com/Wadym/voiceConvergence.git (push)
 ```
 
+
+
+
 Change your remote's URL from HTTPS to SSH with the git remote set-url command.
 
 ```
