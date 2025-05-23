@@ -61,3 +61,26 @@ Start SSH agent in the background.
 Agent pid 977
 ```
 
+
+
+
+
+requirements.txt:
+
+```
+PyQt5>=5.15
+matplotlib>=3.5
+librosa>=0.10
+parselmouth>=0.4
+gTTS>=2.3
+fastdtw>=0.3
+sounddevice>=0.4
+numpy>=1.24
+scipy>=1.10
+```
+
+Install with:
+```
+pip install -r requirements.txt
+
+```
